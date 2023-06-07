@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+img {
+    max-width: 100%;
+    max-height: 100vh;
+    height: auto;
+}
+
+#registro-agentes{
+    margin-left: 175px;
+    margin-right: 175px;
+    margin-bottom: 175px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000080;
+    color: white;
+}
+
+#footer-content1 {
+    text-align: left;
+}
+
+#footer-content2 {
+    float: right;
+}
+
+#submit{
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+th, td {
+    padding: 20px;
+}
+
+table {
+    align-self: center;
+}
